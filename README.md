@@ -1,4 +1,4 @@
- Copyright 2024 (c) Angelo L Ranille -All rights reserved
+ Copyright 2024 (c) Angelo Llanera Ranille -All rights reserved
 
 # Gem Wallet
 
