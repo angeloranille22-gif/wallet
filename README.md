@@ -1,3 +1,5 @@
+ Copyright 2024 (c) Angelo L Ranille -All rights reserved
+
 # Gem Wallet
 
 [![Core CI](https://github.com/gemwalletcom/wallet/actions/workflows/core-ci.yml/badge.svg)](https://github.com/gemwalletcom/wallet/actions/workflows/core-ci.yml)
